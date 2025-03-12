@@ -1,2 +1,2 @@
 # recetas-2025
-listado de recetas de cocina
+listado de recetas de cocina.
